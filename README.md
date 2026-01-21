@@ -57,8 +57,8 @@ Each repository includes:
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: *(add your profile link here)*
-* 📧 Email: *(optional — only if you want)*
+* 💼 LinkedIn: *(www.linkedin.com/in/prajwal-gajmer-275a232b9)*
+* 📧 Email: *(prajwalgazmr@gmail.com)*
 
 I’m open to internships, entry-level roles, and collaborative learning opportunities.
 
