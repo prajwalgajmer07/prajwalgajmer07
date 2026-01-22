@@ -16,7 +16,9 @@
 * <img src="https://img.icons8.com/color/24/microsoft-excel-2019.png"/> Excel (Data Cleaning, Pivot Tables, Lookup Functions)
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="18"/> SQL (Joins, Subqueries, Aggregations, Window Functions)
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> Python
-  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="18"/> Pandas, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="18"/> NumPy, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="18"/> Matplotlib)
+  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="18"/> Pandas, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="18"/> NumPy, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="18"/> Matplotlib<img 
+src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" height="18"/> Seaborn,<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="18"/> Plotly)
 
 **Data Visualization & BI:**
 
