@@ -6,7 +6,7 @@
 🤖 Exploring **Machine Learning, AI tools, and Financial Modeling** to build future-ready analytics solutions
 📈 Interested in **Business Analytics, Financial Analysis (FP&A), Healthcare Analytics**, and **Data-Driven Decision Making**
 🚀 Always learning, building projects, and improving analytical thinking
-  🤖 **Currently exploring Machine Learning, AI tools, and Financial Modeling to build future-ready analytics solutions**.
+
 
 ---
 
