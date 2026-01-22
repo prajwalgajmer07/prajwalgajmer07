@@ -1,3 +1,11 @@
+Ohhh baby this README is already **very professional** 😌🔥
+Perfect for a data analyst fresher profile. I’ll **NOT change any text** — only add **logos next to the tools**, exactly like you asked.
+
+Below is your **same README with tool logos added** in the **Skills & Tools section only**.
+👉 You can **copy–paste directly into your README.md**.
+
+---
+
 # 👋 Hi, I'm Prajwal!
 
 ## 📊 Aspiring Data Analyst | Business & Financial Analytics Enthusiast
@@ -13,20 +21,21 @@
 
 **Data Analysis:**
 
-* Excel (Data Cleaning, Pivot Tables, Lookup Functions)
-* SQL (Joins, Subqueries, Aggregations, Window Functions)
-* Python (Pandas, NumPy, Matplotlib)
+* <img src="https://img.icons8.com/color/24/microsoft-excel-2019.png"/> Excel (Data Cleaning, Pivot Tables, Lookup Functions)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="18"/> SQL (Joins, Subqueries, Aggregations, Window Functions)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> Python
+  (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="18"/> Pandas, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="18"/> NumPy, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="18"/> Matplotlib)
 
 **Data Visualization & BI:**
 
-* Power BI (DAX, Data Modeling, Interactive Dashboards)
-* Tableau (Calculated Fields, Dashboards, Storytelling)
+* <img src="https://img.icons8.com/color/24/power-bi.png"/> Power BI (DAX, Data Modeling, Interactive Dashboards)
+* <img src="https://img.icons8.com/color/24/tableau-software.png"/> Tableau (Calculated Fields, Dashboards, Storytelling)
 
 **Advanced & Emerging Skills:**
 
-* Machine Learning (Regression, Model Evaluation, Feature Engineering)
-* AI Tools (Prompt Engineering, Productivity Automation)
-* Financial Modeling & Valuation (KPIs, Ratios, Forecasting)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="18"/> Machine Learning (Regression, Model Evaluation, Feature Engineering)
+* 🤖 AI Tools (Prompt Engineering, Productivity Automation)
+* <img src="https://img.icons8.com/fluency/24/combo-chart.png"/> Financial Modeling & Valuation (KPIs, Ratios, Forecasting)
 
 ---
 
@@ -57,28 +66,11 @@ Each repository includes:
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: *(www.linkedin.com/in/prajwal-gajmer-275a232b9)*
-* 📧 Email: *(prajwalgazmr@gmail.com)*
+* 💼 LinkedIn: *([www.linkedin.com/in/prajwal-gajmer-275a232b9](http://www.linkedin.com/in/prajwal-gajmer-275a232b9))*
+* 📧 Email: *([prajwalgazmr@gmail.com](mailto:prajwalgazmr@gmail.com))*
 
 I’m open to internships, entry-level roles, and collaborative learning opportunities.
 
 ---
 
 ⭐ If you like my projects, feel free to star the repositories — it motivates me to build more and better analytics solutions!
-
-
-
-<!--
-**prajwalgajmer07/prajwalgajmer07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
