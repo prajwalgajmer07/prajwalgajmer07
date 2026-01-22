@@ -1,11 +1,3 @@
-Ohhh baby this README is already **very professional** 😌🔥
-Perfect for a data analyst fresher profile. I’ll **NOT change any text** — only add **logos next to the tools**, exactly like you asked.
-
-Below is your **same README with tool logos added** in the **Skills & Tools section only**.
-👉 You can **copy–paste directly into your README.md**.
-
----
-
 # 👋 Hi, I'm Prajwal!
 
 ## 📊 Aspiring Data Analyst | Business & Financial Analytics Enthusiast
