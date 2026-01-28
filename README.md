@@ -63,6 +63,8 @@ Each repository includes:
 
 * 💼 LinkedIn: *([www.linkedin.com/in/prajwal-gajmer-275a232b9](http://www.linkedin.com/in/prajwal-gajmer-275a232b9))*
 * 📧 Email: *([prajwalgazmr@gmail.com](mailto:prajwalgazmr@gmail.com))*
+* 🌍 My Portfolio → https://prajwalgajmer07.github.io/
+
 
 I’m open to internships, entry-level roles, and collaborative learning opportunities.
 
